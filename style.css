@@ -1,0 +1,45 @@
+.images1
+            {
+             background: url('mon_image.png');
+             display: inline-block;
+             background-repeat: no-repeat;
+             background-position: 0px 0px;
+             width: 1920px;
+             height: 1080px;  
+            }
+.images2
+            {
+             background: url('mon_image.png');
+             display: inline-block;
+             background-repeat: no-repeat;
+             background-position: -1920px 0px;
+             width: 350px;
+             height: 350px;  
+            }
+.images3
+            {
+             background: url('mon_image.png');
+             display: inline-block;
+             background-repeat: no-repeat;
+             background-position: -2270px 0px;
+             width: 251px;
+             height: 201px;  
+            }
+.images4
+            {
+             background: url('mon_image.png');
+             display: inline-block;
+             background-repeat: no-repeat;
+             background-position: -2521px 0px;
+             width: 200px;
+             height: 200px;  
+            }
+.images5
+            {
+             background: url('mon_image.png');
+             display: inline-block;
+             background-repeat: no-repeat;
+             background-position: -2721px 0px;
+             width: 209px;
+             height: 241px;  
+            }
